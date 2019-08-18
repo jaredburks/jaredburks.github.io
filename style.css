@@ -31,3 +31,8 @@ body, html{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+
+#mc_embed_signup form{
+	text-align: center;
+	padding: 10px 0 10px;
+}
