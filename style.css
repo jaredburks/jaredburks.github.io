@@ -1,0 +1,33 @@
+/* -- Code in this comment from VIDEO #64
+.btn-danger{
+	background-color: orange;
+}
+
+.btn-danger:hover {
+	background-color: black;
+}
+*/
+
+/* code in VIDEO 65 GRIDS
+.col{
+	background:grey;
+	border: 2px solid black;
+
+/* Container holding the image and the text */
+body, html{
+	height: 100%
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  top:50%;
+}
+
+.bg{
+	background-image: url("dna.jpg");
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
