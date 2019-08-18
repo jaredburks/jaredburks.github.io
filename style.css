@@ -32,7 +32,12 @@ body, html{
 	background-size: cover;
 }
 
-#mc-embedded-subscribe-form.validate{
+form#mc-embedded-subscribe-form.validate{
+	text-align: center;
+	padding: 10px 0 10px;
+}
+
+#mc_embed_signup form{
 	text-align: center;
 	padding: 10px 0 10px;
 }
